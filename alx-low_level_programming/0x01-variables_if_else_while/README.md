@@ -1,1 +1,1 @@
-This repo contains solutions to c variables task
+This repo contains solution to c variable task
