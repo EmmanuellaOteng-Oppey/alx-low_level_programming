@@ -1,1 +1,1 @@
-My first README.md
+This repo contains solutions to c variables task
