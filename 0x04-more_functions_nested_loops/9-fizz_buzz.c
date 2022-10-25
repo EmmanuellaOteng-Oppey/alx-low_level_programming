@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main -> prints Fizz for multiples of 3 and Buzz for multiples of 5.
+ * main - prints Fizz for multiples of 3 and Buzz for multiples of 5
  *
  * Return: result
  */
@@ -25,5 +25,4 @@ int main(void)
 		i++;
 	}
 	printf("\n");
-
 }
